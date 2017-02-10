@@ -18,7 +18,7 @@ h1{
   font-family: 'Rubik', sans-serif;
   border: 9px solid black;
   border-radius: 20%;
-  padding-top: 2%;
+  
 }
 
 h2{
@@ -86,4 +86,8 @@ div.well{
   background-color: inherit;
   width: 100%;
   border: 3px dotted black;
+}
+
+.jumbotron{
+  background-color: inherit;
 }
