@@ -5,9 +5,10 @@ body{
 }
 img{
   float: right;
-  width: 325px;
-  height: auto;
-  margin-right: 12%;
+  width: 285px;
+  height:400px;
+  margin-right: 2%;
+  border: 20px solid black;
 }
 
 h1{
