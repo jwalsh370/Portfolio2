@@ -8,8 +8,8 @@ body{
   background-repeat: no-repeat;
   background-position: right bottom, left top;
   background-attachment: scroll;
-  background-size: 600px, auto;
-  padding-left: 4em, 0em;
+  max-width: 100%, none;
+  height: auto;
 }
 
 img{
