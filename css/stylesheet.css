@@ -8,8 +8,7 @@ body{
   background-repeat: no-repeat;
   background-position: right bottom, left top;
   background-attachment: scroll;
-  max-width: 100%, none;
-  height: auto;
+  background-size: 90%, auto;
 }
 
 img{
@@ -105,7 +104,7 @@ div.well{
 .column{
   float: auto;
   text-align:left;
-  border: 9px solid white;
+  border: 2px solid white;
   background-color: black;
   margin-right: 950px;
   margin-top: inherit;
