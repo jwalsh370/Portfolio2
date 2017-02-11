@@ -5,7 +5,7 @@ body{
   padding: 2%;
   background-color: #000000;
   color: white;
-  background-image: url(https://cdn.pixabay.com/photo/2017/01/26/07/06/fighting-fish-2009970_960_720.jpg), url(https://68.media.tumblr.com/bfbb24afb15caa6c6add0836c4918a17/tumblr_o1kn5ivlJ01smqdb1o1_500.gif);
+  background-image:url(https://i.ytimg.com/vi/5OFBTo7c0P0/maxresdefault.jpg), url(https://68.media.tumblr.com/bfbb24afb15caa6c6add0836c4918a17/tumblr_o1kn5ivlJ01smqdb1o1_500.gif);
   background-repeat: no-repeat;
   background-position: right bottom, left top;
   background-attachment: scroll;
@@ -114,4 +114,9 @@ h4{
   text-shadow: 20px;
   color: #becce2;
   text-decoration: underline;
+}
+.fish{
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
 }
