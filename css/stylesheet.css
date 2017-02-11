@@ -1,7 +1,8 @@
 
 @media only screen
   and (min-device-width:375px)
-  and (max-device-width:667px){
+  and (max-device-width:667px)
+  and (-webkit-min-device-pixel-ratio: 3){
     .fish{
       display: block;
       margin: 0 auto;
@@ -9,6 +10,7 @@
       height: 240px;
     }
   }
+  
 body{
   border: 15px solid white;
   padding: 2%;
@@ -19,6 +21,7 @@ body{
   background-position: right bottom, left top;
   background-attachment: scroll;
 }
+
 img{
   float: right;
   width: 285px;
