@@ -45,7 +45,6 @@ h3{
   text-decoration: underline;
 }
 
-
 ul{
   font-size: 1.3em;
   font-family: 'Alike Angular', serif;
@@ -58,7 +57,6 @@ ol{
   font-family: 'Alike Angular', serif;
 }
 
-
 p{
   font-size: 1.1em;
   font-family: 'Alike Angular', serif;
@@ -70,6 +68,7 @@ li{
   font-family: 'Alike Angular', serif;
 
 }
+
 .special{
   color: #becce2;
 }
@@ -83,11 +82,11 @@ li{
   text-align: left;
   text-decoration: underline;
 }
+
 .head2{
   text-align: center;
   text-decoration: underline;
 }
-
 
 div.well{
   background-color: inherit;
@@ -98,10 +97,12 @@ div.well{
 .jumbotron{
   background-color: inherit;
 }
+
 .blue{
   color: #becce2;
 }
-.column{
+
+/*.column{*/
   float: auto;
   text-align:left;
   border: 2px solid white;
@@ -116,8 +117,9 @@ h4{
   color: #becce2;
   text-decoration: underline;
 }
-.fish{
-  background-position: right bottom;
+
+/*.fish{*/
+  /*background-position: right bottom;
   background-repeat: no-repeat;
   background-attachment: scroll;
-}
+}*/
