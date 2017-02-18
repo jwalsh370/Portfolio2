@@ -102,15 +102,6 @@ div.well{
   color: #becce2;
 }
 
-/*.column{*/
-  float: auto;
-  text-align:left;
-  border: 2px solid white;
-  background-color: black;
-  margin-right: 950px;
-  margin-top: inherit;
-}
-
 h4{
   text-align: center;
   text-shadow: 20px;
@@ -118,8 +109,6 @@ h4{
   text-decoration: underline;
 }
 
-/*.fish{*/
-  /*background-position: right bottom;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-}*/
+.row{
+  color: white;
+}
