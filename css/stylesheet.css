@@ -4,7 +4,7 @@ body{
   padding: 2%;
   background-color: #000000;
   color: white;
-  background-image:url(https://i.ytimg.com/vi/5OFBTo7c0P0/maxresdefault.jpg), url(https://68.media.tumblr.com/bfbb24afb15caa6c6add0836c4918a17/tumblr_o1kn5ivlJ01smqdb1o1_500.gif);
+  background-image:url("https://i.ytimg.com/vi/5OFBTo7c0P0/maxresdefault.jpg"), url("https://68.media.tumblr.com/bfbb24afb15caa6c6add0836c4918a17/tumblr_o1kn5ivlJ01smqdb1o1_500.gif");
   background-repeat: no-repeat;
   background-position: right bottom, left top;
   background-attachment: scroll;
@@ -110,5 +110,5 @@ h4{
 }
 
 .row{
-  color: white;
+  color: #ffff00;
 }
