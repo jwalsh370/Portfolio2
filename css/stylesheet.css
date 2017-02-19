@@ -45,26 +45,15 @@ h3{
   text-decoration: underline;
 }
 
-ul{
+ul, ol{
   font-size: 1.3em;
   font-family: 'Alike Angular', serif;
 
 
 }
 
-ol{
-  font-size: 1.3em;
-  font-family: 'Alike Angular', serif;
-}
-
-p{
+p, li{
   font-size: 1.1em;
-  font-family: 'Alike Angular', serif;
-
-}
-
-li{
-  font-size: 1em;
   font-family: 'Alike Angular', serif;
 
 }
